@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: GatasMalas
 description: Just a blog
+future: True
+published: True
