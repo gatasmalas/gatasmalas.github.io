@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: index.md
 ---
 ## Welcome to my Github Site
 ![My Header]( {{ site.url }}/assets/images/header.jpeg)
