@@ -6,6 +6,7 @@ layout: default
 
 
   {% for post in site.posts %}
-   ( {{ post.title }} )[ {{ post.url }} ]
-     * {{ post.excerpt }}
+   [{{ page.title }}]("{{ page.url | prepend: site.github.url }}")
+     {{ post.excerpt }}
   {% endfor %}
+  
