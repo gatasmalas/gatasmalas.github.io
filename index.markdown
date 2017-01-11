@@ -6,6 +6,6 @@ layout: default
 
 {% for post in site.posts %}
 
-* [{{ post.title }}]("{{ site.github.url }}/_posts")
+* [{{ post.title }}]("gatasmalas.github.io/_posts")
 
 {% Endfor %}
