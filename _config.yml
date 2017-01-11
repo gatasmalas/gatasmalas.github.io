@@ -3,3 +3,7 @@ title: GatasMalas
 description: Just a blog
 future: True
 published: True
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
