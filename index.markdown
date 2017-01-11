@@ -8,4 +8,4 @@ layout: default
 
 * [{{ post.title }}]("gatasmalas.github.io/_posts")
 
-{% Endfor %}
+{% endfor %}
