@@ -1,0 +1,21 @@
+---
+
+layout: default
+title: Code Pen Account
+
+---
+
+## Free Code Camp 
+
+I have been taking the Front-end Developer series at [Free Code Camp](http://www.freecodecamp.com) and I starting my first project.My project, and future projects, can be seen at [codepen](https://codepen.io/gatomalo/). My first project is a tribute page and the second one will be a portfolio webpage.
+
+So far I have finished the html/css, bootstrap, and jquery classes. The format is similar to [Code Academy](www.codeacademy.com) in the since you have browser ide and follow the step-by-step tutorial; however, I have found it to be a lot more hands-on and they have opportunities to do projects, which bolsters your portfolio, and volunteer for non-profit organizations, which isjust always awesome.
+
+I am doing *Free Code Camp* because I have found it is difficult to utitlize the full potential of my Django projects without
+getting a better understanding of how the front-end works. Also, it is giving me a chance to work on my portfolio, but I still plan on finishing my [subnet game](https://github.com/gatasmalas/subnetgame). It is still in a pretty strong *pre-alpha* stage so don't feel pressured to look at it right now.
+
+I still need to:
+[] Finish the alogorithm of the game
+[] Implement the python library to process the different subnets
+[] Organize it a lot better
+[] Integrate it into the pygame libary
